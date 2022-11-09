@@ -1,0 +1,28 @@
+{
+  "name": "react-native-javascript",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@ethersproject/shims": "^5.7.0",
+    "@thirdweb-dev/sdk": "^3.5.1-nightly-c9c0e4f",
+    "ethers": "^5.7.2",
+    "expo": "^46.0.16",
+    "expo-status-bar": "^1.4.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-get-random-values": "~1.8.0",
+    "react-native-web": "^0.18.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.19.4"
+  },
+  "private": true
+}
