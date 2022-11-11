@@ -1,5 +1,11 @@
 # React Native + thirdweb + JavaScript Starter Template
 
+## 👷🚧 Alpha 🚧👷
+
+This template is in alpha right now. We're working on improving it and adding more features. If you have any feedback, please let us know!
+
+Got questions? Jump into our [Discord](https://discord.com/invite/thirdweb) to speak with us directly.
+
 ## Getting Started
 
 Create a project using this example:
@@ -19,12 +25,6 @@ To learn more about thirdweb and Next.js, take a look at the following resources
 - [React Native Documentation](https://reactnative.dev/) - learn about Next.js features and API.
 
 You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## 👷🚧 Alpha. 🚧👷
-
-This template is in alpha right now. We're working on improving it and adding more features. If you have any feedback, please let us know!
-
-Got questions? Jump into our [Discord](https://discord.com/invite/thirdweb) to speak with us directly.
 
 ## Join our Discord!
 
