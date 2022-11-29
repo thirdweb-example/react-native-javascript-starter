@@ -48,7 +48,6 @@ export default function App() {
           {nfts.map((nft) => (
             <TouchableOpacity
               onPress={() => {
-                console.log(nft?.metadata?.attributes[0].value);
                 nft?.metadata?.attributes[0].value &&
                   Linking.openURL(nft?.metadata?.attributes[0].value);
               }}
